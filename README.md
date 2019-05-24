@@ -11,3 +11,4 @@ In this course, you will learn how to use GitHub successfully
 - Sample item 3
 - Sample item 4
 - Sample item 5
+- Sample item 6
